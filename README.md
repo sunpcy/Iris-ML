@@ -3,7 +3,7 @@
 
 **Objective:** Developed a machine learning model to classify Iris species using the Iris dataset, focusing on comparing the performance of different algorithms.
 
-**Dataset:** Utilized the Iris dataset containing 150 samples of Iris flowers, with features such as sepal length, sepal width, petal length, and petal width. https://www.kaggle.com/datasets/soylevbeytullah/flowers-dataset-iris/data
+**Dataset:** Utilized the Iris dataset containing 150 samples of Iris flowers, with features such as sepal length, sepal width, petal length, and petal width.
 
 **Methods:** Implemented and compared the performance of three classification algorithms:
 - Support Vector Machine (SVM)
